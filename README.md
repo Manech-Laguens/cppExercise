@@ -10,6 +10,11 @@ This is a simple C++ program to manage a list of students. It allows you to add,
 5. Sort students by name (using Merge Sort).
 6. Display all students.
 
+## Before Using
+Here are the inputs you shouldn't use:
+Anything that is not what is asked (e.g a letter when a number is asked)
+In ID section: a number that exceed 11 integers.
+
 ## How to Use
 Compile and run the program:
 
